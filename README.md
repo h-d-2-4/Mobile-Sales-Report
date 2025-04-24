@@ -18,7 +18,7 @@ This repository showcases a complete Power BI dashboard project, built by follow
 ```
 Power-BI-Dashboard/
 ├── dashboard/        → Power BI .pbix file
-├── datasets/         → Source Excel or CSV files (zipped if needed)
+├── datasets/         → Source Excel  
 ├── images/           → Dashboard screenshots for preview
 ├── README.md         → This file
 ```
