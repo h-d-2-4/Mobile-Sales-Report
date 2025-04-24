@@ -21,18 +21,8 @@ Power-BI-Dashboard/
 ├── datasets/         → Source Excel  
 ├── images/           → Dashboard screenshots for preview
 ├── README.md         → This file
+
 ```
-
----
-
-## 🖼️ Dashboard Preview
-
-*Visual walkthrough of the report:*
-
-![Dashboard Overview](images/overview.png)  
-![Key Insights](images/insights.png)
-
----
 
 ## 🧠 Learnings
 
