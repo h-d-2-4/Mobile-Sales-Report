@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard Project
+# 📊 Mobile Sales Report
 
 This repository showcases a complete Power BI dashboard project, built by following a hands-on tutorial by [Satish Dhawale](https://www.youtube.com/watch?v=znJGWMtk_EE). It covers everything from importing data and transforming it in Power Query to building DAX-driven insights and visuals.
 
